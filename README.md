@@ -1,4 +1,4 @@
-# Todo List
+# Todo List 
 
 ⭐ This repository contains a Todo List app, locally developed and deployed.
 
